@@ -1766,33 +1766,6 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
-.cid-qTrBD94r3F {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qTrBD94r3F .title {
-  margin-bottom: 2rem;
-}
-.cid-qTrBD94r3F .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qTrBD94r3F a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qTrBD94r3F a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qTrBD94r3F .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qTrBD94r3F .input-group-btn {
-  display: block;
-  text-align: center;
-}
 .cid-qTrEsrDNi7 {
   padding-top: 30px;
   padding-bottom: 30px;
